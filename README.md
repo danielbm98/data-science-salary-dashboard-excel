@@ -14,21 +14,19 @@ Create an interactive dashboard that enables users to explore salary trends acro
 
 ---
 
+## Live Dashboard Demo
+
+<img width="1289" height="544" alt="Sales-excel-dashboard" src="https://github.com/user-attachments/assets/064675a9-646c-47eb-b44c-0f2897a2fe9f" />
+
 ## Dashboard Preview
 
 > **Add screenshots here**
-
-### Main Dashboard
-
-![Dashboard Overview](images/dashboard-overview.png)
 
 ### Interactive Filters
 
 ![Dashboard Filters](images/dashboard-filters.png)
 
-### Dashboard in Action (Optional GIF)
 
-*A short GIF demonstrating the dashboard updating as different filters are selected.*
 
 ---
 
