@@ -102,20 +102,6 @@ This project demonstrates proficiency in:
 
 ---
 
-## Folder Structure
-
-```
-📂 images
-    ├── dashboard-overview.png
-    ├── dashboard-filters.png
-    └── dashboard-demo.gif
-
-📄 Salary_Dashboard.xlsx
-📄 README.md
-```
-
----
-
 ## What I Learned
 
 Through this project, I strengthened my skills in:
