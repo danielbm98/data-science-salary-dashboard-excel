@@ -20,7 +20,7 @@ Create an interactive dashboard that enables users to explore salary trends acro
 
 ## Dashboard Preview
 
-> **Add screenshots here**
+<img width="1360" height="551" alt="Dashboard overview" src="https://github.com/user-attachments/assets/606346ea-1bdc-4c08-a6d4-110f8bd5ef34" />
 
 ### Interactive Filters
 
