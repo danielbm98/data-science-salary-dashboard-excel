@@ -24,8 +24,11 @@ Create an interactive dashboard that enables users to explore salary trends acro
 
 ### Interactive Filters
 
-![Dashboard Filters](images/dashboard-filters.png)
-
+<p align="center">
+  <img width="178" height="216" alt="Job title slicer" src="https://github.com/user-attachments/assets/8ba6ee56-9f16-4a7c-87a0-633cc363861d" />
+  <img width="138" height="137" alt="Type slicer" src="https://github.com/user-attachments/assets/3bf1fa4a-d032-440e-91e8-b23c32fef8ce" />
+  <img width="216" height="243" alt="Countries slicer" src="https://github.com/user-attachments/assets/31111244-ed0c-44d4-911b-d27bfabacad0" />
+</p>
 
 
 ---
