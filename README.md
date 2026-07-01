@@ -34,15 +34,13 @@ Create an interactive dashboard that enables users to explore salary trends acro
   <tr>
     <td align="center" valign="top">
       <b>Job Title</b><br><br>
-      <img width="178" height="216" alt="Job title slicer" src="https://github.com/user-attachments/assets/8ba6ee56-9f16-4a7c-87a0-633cc363861d"">
+      <img width="178" height="216" alt="Job title slicer" src="https://github.com/user-attachments/assets/8ba6ee56-9f16-4a7c-87a0-633cc363861d">
     </td>
-
     <td align="center" valign="top">
       <b>Type</b><br><br>
       <img width="138" height="137" alt="Type slicer" src="https://github.com/user-attachments/assets/3bf1fa4a-d032-440e-91e8-b23c32fef8ce">
     </td>
-
-    <td align="center" valign="top">
+   <td align="center" valign="top">
       <b>Country</b><br><br>
       <img width="216" height="243" alt="Countries slicer" src="https://github.com/user-attachments/assets/31111244-ed0c-44d4-911b-d27bfabacad0">
     </td>
